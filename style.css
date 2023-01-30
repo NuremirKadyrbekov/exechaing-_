@@ -1,0 +1,28 @@
+.input-group{
+    width: 500px;
+    color: rgb(140, 236, 116);
+}
+.main{
+    margin-top: 40px;
+ display: flex;
+ margin-left: 400px;
+}
+.btn{
+    margin-top: 50px;
+    margin-left: -200px;
+}
+.ver{
+    border: 1px solid rgb(226, 223, 223);
+    border-radius: 2px;
+    margin-top: 23px;
+    width: 60px;
+    height: 66px;
+    transition: 300ms;
+}
+.ver:hover{
+    box-shadow:  0 0  3px 3px  rgba(115, 171, 255, 0.589) ;
+    
+}
+.text{
+  margin-left: 155px ;
+}
